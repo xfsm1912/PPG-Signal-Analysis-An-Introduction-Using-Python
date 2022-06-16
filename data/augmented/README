@@ -1,0 +1,14 @@
+The gain of the pre-amplifier was g=500
+
+data format: 
+time | volts (divided by 500 give the actual mV)
+
+Please read the license before using the data:
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Enjoy!
+
+/Bernd Porr
+
+biosignals.berndporr.me.uk
+mail@berndporr.me.uk
